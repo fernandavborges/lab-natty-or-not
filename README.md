@@ -17,26 +17,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mundo dos Gatos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresentação divertida e informativa sobre o mundo dos gatos, abordando raças, histórias, lendas, cuidados essenciais e curiosidades. O projeto foi pensado para ser visualmente colorido, leve e educativo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Microsoft Copilot (IA Generativa para criação de conteúdo)
+- PowerPoint (estruturação e design dos slides)
+- Python (automação da geração do arquivo)
+- Microsoft 365 (integração e exportação de arquivos)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi gerado com auxílio da IA Microsoft Copilot, que estruturou os tópicos, redigiu os textos e sugeriu elementos visuais. A apresentação foi montada com foco em tornar o tema acessível e divertido, utilizando cores vibrantes e imagens ilustrativas. O arquivo final foi exportado em formato `.pptx`.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é uma apresentação com 8 slides que explora:
+- Raças populares de gatos
+- Histórias e lendas envolvendo felinos
+- Cuidados com alimentação, saúde e passeios
+- Curiosidades e dicas de convivência
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Ideal para uso em projetos escolares, apresentações informativas ou como material educativo para amantes de gatos.
+
 
 ### Exemplos e Insigths
 
