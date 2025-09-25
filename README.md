@@ -12,6 +12,8 @@ Apresentação divertida e informativa sobre o mundo dos gatos, abordando raças
 ## 🧐 Processo de Criação
 O conteúdo foi gerado com auxílio da IA Microsoft Copilot, que estruturou os tópicos, redigiu os textos e sugeriu elementos visuais. A apresentação foi montada com foco em tornar o tema acessível e divertido, utilizando cores vibrantes e imagens ilustrativas. O arquivo final foi exportado em formato `.pptx`.
 
+Além disso, foi adicionado um ebook, com a mesma premissa da apresentação.
+
 ## 🚀 Resultados
 O resultado é uma apresentação com 8 slides que explora:
 - Raças populares de gatos
